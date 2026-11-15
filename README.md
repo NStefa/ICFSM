@@ -1,5 +1,7 @@
 # ICFSM
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24235718.svg)](https://doi.org/10.5281/zenodo.24235718)
+
 Supplementary material for the paper:
 
 > Smaga, Ł., Stefańska, N., Kokoszka, P. (2026). Projection tests for linear
